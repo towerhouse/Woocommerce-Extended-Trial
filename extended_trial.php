@@ -4,7 +4,7 @@
  * @version 1.6
  */
 /*
-Plugin Name: Woocommerce Extended Trial Coupon
+Plugin Name: WooCommerce Extended Trial Coupon
 Plugin URI: http://towerhousestudio.com
 Description: Allows to have extended trials for woocommerce subscriptions.
 Author: TowerHouseStudio
